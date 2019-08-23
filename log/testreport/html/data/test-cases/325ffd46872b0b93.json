@@ -1,0 +1,63 @@
+{
+  "uid" : "325ffd46872b0b93",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-tom]",
+  "fullName" : "src..data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-tom]",
+  "historyId" : "928c65f94616af16534c22ca14f3892c",
+  "time" : {
+    "start" : 1550339177457,
+    "stop" : 1550339177458,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试登录功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "yinjiwandeMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8358-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-tom]"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "325ffd46872b0b93.json",
+  "parameterValues" : [ ]
+}

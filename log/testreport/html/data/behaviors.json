@@ -1,0 +1,181 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试登录功能",
+    "children" : [ {
+      "name" : "测试成功的登录场景",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474608",
+        "uid" : "cee9a6768792bd0d",
+        "parentUid" : "d285c99e4ac82042c5684d00adc6e816",
+        "status" : "passed",
+        "time" : {
+          "start" : 1550339155379,
+          "stop" : 1550339165392,
+          "duration" : 10013
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d285c99e4ac82042c5684d00adc6e816"
+    }, {
+      "name" : "测试失败的登录场景",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474609",
+        "uid" : "433b1f956c771197",
+        "parentUid" : "2e4e160a3a1538700f183caa02df9628",
+        "status" : "failed",
+        "time" : {
+          "start" : 1550339165395,
+          "stop" : 1550339177450,
+          "duration" : 12055
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e4e160a3a1538700f183caa02df9628"
+    }, {
+      "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[tom123-tom]",
+      "uid" : "82f3be4ab802ea39",
+      "parentUid" : "97accae9c8d68ec7411b2641d079d537",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550339177451,
+        "stop" : 1550339177453,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[tom123-jim]",
+      "uid" : "a542a0e1b432d576",
+      "parentUid" : "97accae9c8d68ec7411b2641d079d537",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550339177454,
+        "stop" : 1550339177456,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-tom]",
+      "uid" : "325ffd46872b0b93",
+      "parentUid" : "97accae9c8d68ec7411b2641d079d537",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550339177457,
+        "stop" : 1550339177458,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-jim]",
+      "uid" : "ea4aeb578940261c",
+      "parentUid" : "97accae9c8d68ec7411b2641d079d537",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550339177459,
+        "stop" : 1550339177460,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试已登录的场景",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login_session.TestLoginbyWechat.test_2474609",
+        "uid" : "3900bbeff0b2880e",
+        "parentUid" : "ce2b2040d604a4419d6a85b33dff2e21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1550339177461,
+          "stop" : 1550339181468,
+          "duration" : 4007
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce2b2040d604a4419d6a85b33dff2e21"
+    } ],
+    "uid" : "97accae9c8d68ec7411b2641d079d537"
+  }, {
+    "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_increase_top",
+    "uid" : "f1dc89e095b6cd33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1550339181469,
+      "stop" : 1550339181473,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_decrease_top",
+    "uid" : "8f6a54a5a6af5c1b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1550339181474,
+      "stop" : 1550339181476,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "测试我的自选",
+    "children" : [ {
+      "name" : "测试我的股票/全部选项页面数据，能展示香港的股票",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474610",
+        "uid" : "b0a7a19c10084e60",
+        "parentUid" : "dd030cce221051e8fd96ba8800f5e335",
+        "status" : "passed",
+        "time" : {
+          "start" : 1550339181477,
+          "stop" : 1550339188489,
+          "duration" : 7012
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd030cce221051e8fd96ba8800f5e335"
+    }, {
+      "name" : "测试我的股票/全部选项页面数据，能展示指数基金",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474611",
+        "uid" : "dfde4e4b1740422b",
+        "parentUid" : "3ac1aa3d883c2f1871356d363ba469e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1550339188491,
+          "stop" : 1550339197501,
+          "duration" : 9010
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ac1aa3d883c2f1871356d363ba469e3"
+    }, {
+      "name" : "测试我的股票/全部选项页面数据，能展示沪市基金",
+      "children" : [ {
+        "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474612",
+        "uid" : "6f647f91e4692847",
+        "parentUid" : "66f579c54dd2d92f1efc9d802829c887",
+        "status" : "failed",
+        "time" : {
+          "start" : 1550339197503,
+          "stop" : 1550339204526,
+          "duration" : 7023
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66f579c54dd2d92f1efc9d802829c887"
+    } ],
+    "uid" : "21190ee5a4a17c2826dc9439c275563f"
+  } ]
+}

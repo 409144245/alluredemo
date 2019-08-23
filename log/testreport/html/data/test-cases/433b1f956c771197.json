@@ -1,0 +1,137 @@
+{
+  "uid" : "433b1f956c771197",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474609",
+  "fullName" : "src..data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474609",
+  "historyId" : "86d6e227f255499aebcacb73d008daa1",
+  "time" : {
+    "start" : 1550339165395,
+    "stop" : 1550339177450,
+    "duration" : 12055
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NameError: name 'capturepic' is not defined",
+  "statusTrace" : "self = <src.testcases.login.test_login.TestLogin object at 0x10edbd668>\n\n    @allure.severity('normal')\n    @allure.story('测试失败的登录场景')\n    @allure.testcase(\"http://www.testlink.com/id=2474609\")\n    def test_2474609(self):\n        with allure.step(\"通过电话密码的方式登录雪球\"):\n            logging.info('输入错误的电话、密码')\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"点击用户icon，以便检查登录是否成功\"):\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"检查登录是否成功\"):\n            logging.debug('获取登录名字')\n            time.sleep(random.randint(2, 4))\n            name = str(int(str(int(time.time()))))\n>           capturepic.capture_screen(name)\nE           NameError: name 'capturepic' is not defined\n\nsrc/testcases/login/test_login.py:49: NameError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "NameError: name 'capturepic' is not defined",
+    "statusTrace" : "self = <src.testcases.login.test_login.TestLogin object at 0x10edbd668>\n\n    @allure.severity('normal')\n    @allure.story('测试失败的登录场景')\n    @allure.testcase(\"http://www.testlink.com/id=2474609\")\n    def test_2474609(self):\n        with allure.step(\"通过电话密码的方式登录雪球\"):\n            logging.info('输入错误的电话、密码')\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"点击用户icon，以便检查登录是否成功\"):\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"检查登录是否成功\"):\n            logging.debug('获取登录名字')\n            time.sleep(random.randint(2, 4))\n            name = str(int(str(int(time.time()))))\n>           capturepic.capture_screen(name)\nE           NameError: name 'capturepic' is not defined\n\nsrc/testcases/login/test_login.py:49: NameError",
+    "steps" : [ {
+      "name" : "通过电话密码的方式登录雪球",
+      "time" : {
+        "start" : 1550339165397,
+        "stop" : 1550339169400,
+        "duration" : 4003
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击用户icon，以便检查登录是否成功",
+      "time" : {
+        "start" : 1550339169400,
+        "stop" : 1550339173403,
+        "duration" : 4003
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "检查登录是否成功",
+      "time" : {
+        "start" : 1550339173403,
+        "stop" : 1550339177404,
+        "duration" : 4001
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <src.testcases.login.test_login.TestLogin object at 0x10edbd668>\n\n    @allure.severity('normal')\n    @allure.story('测试失败的登录场景')\n    @allure.testcase(\"http://www.testlink.com/id=2474609\")\n    def test_2474609(self):\n        with allure.step(\"通过电话密码的方式登录雪球\"):\n            logging.info('输入错误的电话、密码')\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"点击用户icon，以便检查登录是否成功\"):\n            time.sleep(random.randint(2, 4))\n    \n        with allure.step(\"检查登录是否成功\"):\n            logging.debug('获取登录名字')\n            time.sleep(random.randint(2, 4))\n            name = str(int(str(int(time.time()))))\n>           capturepic.capture_screen(name)\nE           NameError: name 'capturepic' is not defined\n\nsrc/testcases/login/test_login.py:49: NameError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试登录功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "yinjiwandeMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试失败的登录场景"
+  }, {
+    "name" : "testId",
+    "value" : "http://www.testlink.com/id=2474609"
+  }, {
+    "name" : "thread",
+    "value" : "8358-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474609"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "http://www.testlink.com/id=2474609",
+    "url" : "http://www.testlink.com/id=2474609",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "433b1f956c771197.json",
+  "parameterValues" : [ ]
+}

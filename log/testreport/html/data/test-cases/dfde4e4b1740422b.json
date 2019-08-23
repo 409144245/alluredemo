@@ -1,0 +1,136 @@
+{
+  "uid" : "dfde4e4b1740422b",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474611",
+  "fullName" : "src..data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474611",
+  "historyId" : "96a52be9401aabb08c7cba41834723e",
+  "time" : {
+    "start" : 1550339188491,
+    "stop" : 1550339197501,
+    "duration" : 9010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击我的自选tab，切换我的自选页面",
+      "time" : {
+        "start" : 1550339188492,
+        "stop" : 1550339190493,
+        "duration" : 2001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击股票选项",
+      "time" : {
+        "start" : 1550339190493,
+        "stop" : 1550339193495,
+        "duration" : 3002
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击全部选项",
+      "time" : {
+        "start" : 1550339193495,
+        "stop" : 1550339196500,
+        "duration" : 3005
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "获取全部的股票名字",
+      "time" : {
+        "start" : 1550339196500,
+        "stop" : 1550339197501,
+        "duration" : 1001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试我的自选"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "yinjiwandeMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试我的股票/全部选项页面数据，能展示指数基金"
+  }, {
+    "name" : "thread",
+    "value" : "8358-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474611"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfde4e4b1740422b.json",
+  "parameterValues" : [ ]
+}

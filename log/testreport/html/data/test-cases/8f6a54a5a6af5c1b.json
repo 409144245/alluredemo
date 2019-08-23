@@ -1,0 +1,60 @@
+{
+  "uid" : "8f6a54a5a6af5c1b",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_decrease_top",
+  "fullName" : "src..data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_decrease_top",
+  "historyId" : "7178ae2ee146346f1cb02d7e117c7a8f",
+  "time" : {
+    "start" : 1550339181474,
+    "stop" : 1550339181476,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "yinjiwandeMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "8358-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src"
+  }, {
+    "name" : "testClass",
+    "value" : "src"
+  }, {
+    "name" : "testMethod",
+    "value" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_decrease_top"
+  }, {
+    "name" : "package",
+    "value" : "src"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f6a54a5a6af5c1b.json",
+  "parameterValues" : [ ]
+}

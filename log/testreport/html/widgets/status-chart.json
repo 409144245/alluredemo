@@ -1,0 +1,121 @@
+[ {
+  "uid" : "325ffd46872b0b93",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-tom]",
+  "time" : {
+    "start" : 1550339177457,
+    "stop" : 1550339177458,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f647f91e4692847",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474612",
+  "time" : {
+    "start" : 1550339197503,
+    "stop" : 1550339204526,
+    "duration" : 7023
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3900bbeff0b2880e",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login_session.TestLoginbyWechat.test_2474609",
+  "time" : {
+    "start" : 1550339177461,
+    "stop" : 1550339181468,
+    "duration" : 4007
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8f6a54a5a6af5c1b",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_decrease_top",
+  "time" : {
+    "start" : 1550339181474,
+    "stop" : 1550339181476,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "f1dc89e095b6cd33",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/market.test_hs.TestHSMarket.test_increase_top",
+  "time" : {
+    "start" : 1550339181469,
+    "stop" : 1550339181473,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "severity" : "trivial"
+}, {
+  "uid" : "cee9a6768792bd0d",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474608",
+  "time" : {
+    "start" : 1550339155379,
+    "stop" : 1550339165392,
+    "duration" : 10013
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "ea4aeb578940261c",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[123im-jim]",
+  "time" : {
+    "start" : 1550339177459,
+    "stop" : 1550339177460,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfde4e4b1740422b",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474611",
+  "time" : {
+    "start" : 1550339188491,
+    "stop" : 1550339197501,
+    "duration" : 9010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82f3be4ab802ea39",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[tom123-tom]",
+  "time" : {
+    "start" : 1550339177451,
+    "stop" : 1550339177453,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a542a0e1b432d576",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_with_two_username_passwords[tom123-jim]",
+  "time" : {
+    "start" : 1550339177454,
+    "stop" : 1550339177456,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0a7a19c10084e60",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/myselector.test_all_stocks.TestMySelector.test_2474610",
+  "time" : {
+    "start" : 1550339181477,
+    "stop" : 1550339188489,
+    "duration" : 7012
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "433b1f956c771197",
+  "name" : ".data.ceba.gitee.alluretraining.src.testcases./data/ceba/gitee/alluretraining/src/testcases/login.test_login.TestLogin.test_2474609",
+  "time" : {
+    "start" : 1550339165395,
+    "stop" : 1550339177450,
+    "duration" : 12055
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
